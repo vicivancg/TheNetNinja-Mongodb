@@ -14,9 +14,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/iamshaunjp/mongodb-playlist/issues"
+    "url": "https://github.com/vicivancg/TheNetNinja-Mongodb/issues"
   },
-  "homepage": "https://github.com/iamshaunjp/mongodb-playlist#readme",
+  "homepage": "https://github.com/vicivancg/TheNetNinja-Mongodb#readme",
   "dependencies": {
     "mocha": "^3.5.3",
     "mongoose": "^4.11.11"
