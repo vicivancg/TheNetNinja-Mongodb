@@ -14,7 +14,7 @@ const Schema = mongoose.Schema;
 
 const MarioCharSchema = new Schema({
     name: String,
-    wight: Number
+    weight: Number
 });
 
 /*
