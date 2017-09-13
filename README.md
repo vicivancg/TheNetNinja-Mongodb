@@ -1,3 +1,10 @@
 # mongodb-playlist
-Course files for the MongoDB tutorials playlist on The Net Ninja YouTube channel.
-Each branch in this repository corresponds to the ending code of a particular video.
+
+Archivos de los capitulos de la playlist de Mongodb de TheNetNinja
+
+Dependecias:
+    - Mongoose
+    - Mocha
+
+Link de la playlist: https://youtu.be/9OPP_1eAENg
+Perfil de TheNetNinja:  https://github.com/iamshaunjp
