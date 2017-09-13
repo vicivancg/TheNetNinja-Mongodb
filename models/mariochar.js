@@ -4,7 +4,10 @@ const Schema = mongoose.Schema;
 //Create Schema and Model
 
 /*
-    definimos el schema pasando un objeto con las propiedades
+    agregamos 2 listeners al objeto connection, el primero se dispara
+    solo una vez cuando elevento open sucede, el segundo que es error
+    cuando algun error en la conexión sucedio, y el error es un objeto
+   ando un objeto con las propiedades
     que tendra (nombre y valor), cada objeto puede tener todas
     o solo algunas.
 */
